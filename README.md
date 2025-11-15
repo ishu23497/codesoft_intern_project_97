@@ -1,33 +1,108 @@
-# Personal Portfolio Website
+🌐 Personal Portfolio Website
 
-This is my personal portfolio website created as part of the CodSoft Web Development Internship (Level 1 Task).
+A clean, modern, and fully responsive portfolio website created using HTML, CSS, and JavaScript.
+Showcases skills, projects, services, and contact details in a professional layout.
 
-## Description
-This portfolio showcases my skills, projects, and contact information. It is built using HTML and CSS, designed to be clean, responsive, and user-friendly.
+<p align="center"> <img src="https://img.shields.io/badge/Portfolio-Website-blue" /> <img src="https://img.shields.io/badge/Responsive-Design-success" /> <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-yellow" /> <img src="https://img.shields.io/badge/Status-Live-brightgreen" /> </p>
+🔗 Live Demo
 
-## Features
-- **Header Section:** Displays my name and a brief introduction.
-- **About Section:** Includes my photograph and a short bio.
-- **Skills Section:** Lists my key technical skills and expertise.
-- **Projects Section:** Highlights sample projects with descriptions and images.
-- **Resume Section:** Provides a download link to my resume in PDF format.
-- **Contact Section:** Contains my email address and phone number.
-- **Footer:** Shows copyright information.
+👉 https://ishu23497.github.io/codesoft_intern_project_97/
 
-## Technologies Used
-- HTML5
-- CSS3
+✨ Features
 
-## How to View
-You can view the live website at: [https://ishu23497.github.io/portfolio/](https://ishu23497.github.io/portfolio/)
+🚀 Fully responsive design
 
-## Instructions for Use
-- Clone or download this repository.
-- Open the `index.html` file in a web browser to view the portfolio.
+👤 Personal introduction section
 
-## Contact
-For any queries or collaboration, feel free to contact me at: [royalmansingh98@.com]
+🛠️ Services & skills showcase
 
----
+🖼️ Portfolio/gallery with filters
 
-**Note:** This project is part of the CodSoft Internship Program and is intended for learning and professional growth.
+📩 Contact section
+
+🎨 Smooth UI animations
+
+📱 Mobile friendly
+
+🖼️ Preview
+🔹 Hero Section
+
+Your intro with professional image and social links.
+
+🔹 Services Section
+
+Cards displaying your main services.
+
+🔹 Portfolio Section
+
+Projects categorized by:
+
+Web Design
+
+App Development
+
+Graphic Design
+
+🔹 Contact Section
+
+Clean and simple contact form.
+
+(Add screenshots here if you want)
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Font Awesome Icons
+
+Google Fonts
+
+📁 Folder Structure
+codesoft_intern_project_97/
+│
+├── index.html
+├── about.html
+├── services.html
+├── portfolio.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    ├── images/
+    └── icons/
+
+🚀 How to Run Locally
+git clone https://github.com/ishu23497/codesoft_intern_project_97.git
+cd codesoft_intern_project_97
+
+
+Then open index.html in your browser.
+
+📦 Deployment
+
+This project is deployed using GitHub Pages.
+
+To redeploy:
+
+Push your code to GitHub
+
+Go to Settings → Pages
+
+Select branch main and folder root
+
+🤝 Contributing
+
+Feel free to fork the repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
